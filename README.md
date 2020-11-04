@@ -8,6 +8,8 @@ There is also a bug that it is never unloaded no matter how far you fly away fro
 
 This app will change it to a number of your choosing (default 20).
 
+Before running the app, just go spawn in at Tivat. Note your FPS.
+
 ## Usage
 
 From somewhere within your MSFS 2020 data folder (ie `Packages\Official\OneStore` or better `Packages\Official\OneStore\asobo-scenarii\Scenarii\`) run the app as follows:
@@ -16,7 +18,8 @@ From somewhere within your MSFS 2020 data folder (ie `Packages\Official\OneStore
 FlyingFuck 20
 ```
 Note: the 20 is optional
-output
+
+Output will look like
 ```
 FlamingoErythree.spb: Patching to 20 at index: 1607
 Fl_Cochrane.spb: Patching to 20 at index: 1602
