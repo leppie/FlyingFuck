@@ -8,7 +8,7 @@ There is also a bug that it is never unloaded no matter how far you fly away fro
 
 This app will change it to a number of your choosing (default 20).
 
-Before running the app, just go spawn in at Tivat. Note your FPS.
+Before running the app, just go spawn in at Tivat. Note your FPS. (Mine goes from 15FPS to 43FPS)
 
 ## Usage
 
