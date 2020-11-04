@@ -56,7 +56,7 @@ namespace FlyingFuck
                 return;
             }
 
-            ushort newCount = args.Length > 0 ? Convert.ToUInt16(args) : (ushort)20;
+            ushort newCount = args.Length > 0 ? Convert.ToUInt16(args[0]) : (ushort)20;
 
             foreach (var spb in Directory.EnumerateFiles(dir, "*.spb", SearchOption.AllDirectories))
             {
